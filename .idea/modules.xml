@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/mongodb-k8s-test.iml" filepath="$PROJECT_DIR$/.idea/mongodb-k8s-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../sdcore-nrf-operator-test/.idea/sdcore-nrf-operator-test.iml" filepath="$PROJECT_DIR$/../sdcore-nrf-operator-test/.idea/sdcore-nrf-operator-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../self-signed-certificates-test/.idea/self-signed-certificates-test.iml" filepath="$PROJECT_DIR$/../self-signed-certificates-test/.idea/self-signed-certificates-test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../terraform-juju-cos-lite-k8s/.idea/terraform-juju-cos-lite-k8s.iml" filepath="$PROJECT_DIR$/../terraform-juju-cos-lite-k8s/.idea/terraform-juju-cos-lite-k8s.iml" />
+    </modules>
+  </component>
+</project>
